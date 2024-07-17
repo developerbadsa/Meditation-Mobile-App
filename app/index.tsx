@@ -3,7 +3,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.body}>
       <Text style={styles.text}>
-        Bismillahir Rahmanir Rahim
+        Bismillahir Rahmanir Rahim,, allahu akbar
       </Text>
     </View>
   );
